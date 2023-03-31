@@ -1,0 +1,8 @@
+Help police office Hans save the kidnapped woman!
+
+- use cd, ls and cat to navigate the game;
+- you can only make one choice;
+- you can't go back on your choice;
+- if you get a GAME OVER line, you have to start from the beginning.
+
+GOOD LUCK!
