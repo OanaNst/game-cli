@@ -1,0 +1,1 @@
+You ask the witness about the plate number. They give you the number and you search the database. You find an address. Do you go to the address or do you put a hit on the car?
